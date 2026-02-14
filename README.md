@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building hackathon-ready web & AI projects<br>🌱 Learning full-stack development & modern AI tools<br>👯 Open to collaborations and open-source<br>⚡ Love turning ideas into prototypes fast<br>
+🔭 Building real-world web & AI projects<br>🌱 Learning full-stack development & modern AI tools<br>👯 Open to collaborations and open-source<br>⚡ Love turning ideas into impactful solutions<br> 🎯 Focused on continuous learning and growth
 
 
 ## 🌐 Socials:
